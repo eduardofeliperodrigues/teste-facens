@@ -1,8 +1,0 @@
-Servidor WEB-PHP
-Diretorio Raiz C:\xampp\htdocs
-
-Mysql
-ip: localhost
-user: root
-pass: 
-Schema: estagio

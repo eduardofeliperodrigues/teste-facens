@@ -1,11 +1,10 @@
 <?php
 
     // Getting data send from POST method
-    $sensor = $_POST["sensor"];
-    $date = $_POST["date"];
-    $predict = $_POST["predict"];
+    $sensor = $_GET["sensor"];
+    $date = $_GET["date"];
+    $predict = $_GET["predict"];
 
-    // 
     $servername = "localhost";
     $username = "root";
     $password = "Felicidade";
